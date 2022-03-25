@@ -1,0 +1,12 @@
+body
+{
+    background-color:#000000;
+}
+
+h1, 
+{
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-style: bold;
+    text-align: center;
+}
